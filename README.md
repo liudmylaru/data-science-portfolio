@@ -6,7 +6,8 @@ Used data for the projects is in `data` directory and for demonstration purposes
 
 # Contents
 
-* ## Python for Data Analysis
- * Profitable App Profiles for the App Store and Google Play Markets
- * Exploring Hacker News Posts
+** Python for Data Analysis
+
+  - [Profitable App Profiles for the App Store and Google Play Markets]()
+  - Exploring Hacker News Posts
 
