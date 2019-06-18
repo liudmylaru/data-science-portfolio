@@ -6,21 +6,25 @@ Here is repository of data csience projects made by me presented in form of Jupy
 
 - ### Machine Learning in Python
 
-    - []()\
-    Goals: \
-    Methods: 
-    
-    - []()\
-    Goals: \
-    Methods: 
+    - [Titanic competition](https://github.com/liudmylaru/data-science-portfolio/blob/master/20_datascience_workflow/titanic_for_kaggle.ipynb)\
+    Goals: explore a workflow to make competing in the Kaggle Titanic competition.\
+    Methods: preprocess and explore the data, engineer new features, select the best-performing features, select and tune different algorithms, make a submission to kaggle.
 
-    - []()\
-    Goals: \
-    Methods: 
+    - [Building A Handwritten Digits Classifier](https://github.com/liudmylaru/data-science-portfolio/blob/master/19_handwritten_digits_classifier/digits_classifier.ipynb)\
+    Goals: build models that can classify handwritten digits.\
+    Methods: K-nearest neighbors model, neural network with one, two and three hidden layers.
+    
+    - [Predicting Bike Rentals](https://github.com/liudmylaru/data-science-portfolio/blob/master/18_predict_bike_rentals/bike_rentals.ipynb)\
+    Goals: using detailed data on the number of bicycles people rent by the hour and day, predict the total number of bikes people rented in a given hour.\
+    Methods: explore correlated data, calculate features, linear regression, decision trees, random forests.
+
+    - [ Predicting the stock market](https://github.com/liudmylaru/data-science-portfolio/blob/master/17_predict_stock_market/improved.py)\
+    Goals: using historical data on the price of the S&P500 Index to make predictions about future prices.\
+    Methods: handle datetime data, use rolling function to generate indicators for model, LinearRegression.
 
     - [Predicting House Sale Prices](https://github.com/liudmylaru/data-science-portfolio/blob/master/16_predict_house_sale_prices/house_sale_prices.ipynb)\
     Goals: predict house sale price with housing data for the city of Ames, Iowa, United States from 2006 to 2010.\
-    Methods: set up a pipeline of functions, feature engineering, feature selection, train and test with LinearRegression model
+    Methods: set up a pipeline of functions, feature engineering, feature selection, train and test with LinearRegression model.
 
     - [Predicting Car Prices](https://github.com/liudmylaru/data-science-portfolio/blob/master/15_predict_car_prices/car_prices.ipynb)\
     Goals: predict a car's market price using its attributes.\
