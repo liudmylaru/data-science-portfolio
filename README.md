@@ -4,6 +4,12 @@ Here is repository of data csience projects made by me presented in form of Jupy
 
 ## Contents
 
+- ### Postgres Database and Python
+
+    - [Storing Storm Data](https://github.com/liudmylaru/data-science-portfolio/blob/master/21_postgres_storm_data/storm_data.ipynb)\
+    Goals: create database to store data about hurricanes with efficient way of sharing data, insert data into table.\
+    Methods: create tablein a smart way to store data, create users with restricted access, insert data crom CSV file directly from webpage.
+
 - ### Machine Learning in Python
 
     - [Titanic competition](https://github.com/liudmylaru/data-science-portfolio/blob/master/20_datascience_workflow/titanic_for_kaggle.ipynb)\
