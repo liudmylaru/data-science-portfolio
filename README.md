@@ -4,6 +4,12 @@ Here is repository of data csience projects made by me presented in form of Jupy
 
 ## Contents
 
+- ### Deep Learning with ResNet50
+
+    - [Food-101](https://nbviewer.jupyter.org/github/liudmylaru/test-projects/blob/master/food/food_101.ipynb)\
+    Goals: automatically recognize pictured dishes.\
+    Methods: Residual Nettwork ResNet50, TensorFlow, Keras, image load and show, image preprocess, callbacks to control training, schedule learning rate, data generator.
+
 - ### Postgres Database and Python
 
     - [Storing Storm Data](https://github.com/liudmylaru/data-science-portfolio/blob/master/21_postgres_storm_data/storm_data.ipynb)\
